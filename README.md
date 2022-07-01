@@ -1,4 +1,4 @@
-# compete-react-guide
+# Expenses UI
 Project #1 from 'React - The Complete Guide (incl Hooks, React Router, Redux)' By Maximilian Schwarzmüller.
 
 Aim of project is to create a UI to display the user's monthly expenses. 
